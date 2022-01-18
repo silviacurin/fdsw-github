@@ -10,9 +10,10 @@ body {
 #Hero-Section {
   background-image: url("../img/imagenfondo.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size:contain;
   background-position: left;
 }
+
 
 /* Mis trabajos */
 
